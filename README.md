@@ -5,7 +5,7 @@ All of that are in the app. Just try it now. Follow the instructions below.
 
 # Quick start
 
-To launch the app, clone the repo, activate env and run commands:
+To launch the app, clone the repo, activate venv and run commands:
 ```
 pip install -r requirements.txt
 python manage.py migrate
